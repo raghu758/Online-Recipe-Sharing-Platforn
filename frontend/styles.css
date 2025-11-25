@@ -1,0 +1,16 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #f9f9f9;
+}
+
+.navbar {
+    background-color: #ff6b6b !important;
+}
+
+.recipe-card {
+    transition: 0.3s;
+}
+
+.recipe-card:hover {
+    transform: scale(1.02);
+}
